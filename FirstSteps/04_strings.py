@@ -1,15 +1,13 @@
 # Metodos de Strings
 
 string = "Hola mundo"
-
 print(len(string)) # Cuenta los espacios también como un caracter
 
 # Metodo para poner todo en mayúsculas
-
-print(string.upper())
+print(string.upper()) # Convierte el string a mayúsculas
 
 # Metodo para poner todo el string en minusculas
-print(string.lower())
+print(string.lower()) # Convierte el string a minusculas
 
 # Forma de saber si un caracter esta en la cadena
 
